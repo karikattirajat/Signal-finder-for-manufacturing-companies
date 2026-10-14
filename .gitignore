@@ -1,0 +1,10 @@
+signal-finder-for-manufacturing-companies/input/*
+signal-finder-for-manufacturing-companies/output/*
+!signal-finder-for-manufacturing-companies/input/.gitkeep
+!signal-finder-for-manufacturing-companies/output/.gitkeep
+signal-finder-for-manufacturing-companies/config/seller_context.md
+.env
+*.env
+*.csv
+!signal-finder-for-manufacturing-companies/templates/*.csv
+.DS_Store
